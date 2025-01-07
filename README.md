@@ -77,8 +77,8 @@
 <br/>
 
 <p align="center" width="100%">
-  <a href="https://github.com/nasirmitul">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasirmitul&theme=radical&border=7F3FBF&background=0D1117" alt="Nasir Mitul GitHub streak"/>
+  <a href="https://github.com/neelniloy">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelniloy&theme=radical&border=7F3FBF&background=0D1117" alt="Nasir Mitul GitHub streak"/>
   </a>
 </p>
 
